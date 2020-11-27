@@ -6,9 +6,9 @@
    * `SQL Database Project`
    * `SQL Server Schema Compare`
 
-10. Customize dashboard for Server by adding below widget(s)
-  * CPU utilization report by databases in table form
+3. Customize dashboard for Server by adding below widget(s)
+    * CPU utilization report by databases in table form
   
-11. Customize dashboard for Database by adding below widget(s)
-  * Top 10 expensive queries by CPU
-  * Top 10 fragmented indexes
+4. Customize dashboard for Database by adding below widget(s)
+    * Top 10 expensive queries by CPU
+    * Top 10 fragmented indexes
